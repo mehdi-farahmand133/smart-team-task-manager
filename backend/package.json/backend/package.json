@@ -1,0 +1,12 @@
+{
+  "name": "smart-team-task-manager",
+  "version": "1.0.0",
+  "description": "Backend API for Smart Team Task Manager",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
